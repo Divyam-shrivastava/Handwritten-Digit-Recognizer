@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import cv2
+import openCv as cv2
 from PIL import Image
 import tensorflow as tf
 from streamlit_drawable_canvas import st_canvas
