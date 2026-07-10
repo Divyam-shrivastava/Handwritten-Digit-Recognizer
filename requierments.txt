@@ -1,9 +1,0 @@
-streamlit
-numpy
-opencv-python-headless
-Pillow
-tensorflow
-streamlit-drawable-canvas
-matplotlib
-opencv-python-headless>=4.7.0 (or if you need the non-headless build with GUI support:)
-opencv-python>=4.7.0
