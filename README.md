@@ -20,6 +20,29 @@ This project trains and compares three progressively more powerful models on the
 | **CNN (used in app)** | `Conv2D → Pool → Conv2D → Pool → Dense → Dropout → Dense(10)` | **99.03%** |
 
 ---
+## 🚀 Getting Started
+### Website Link
+-> https://handwritten-digit-recognizer-g8x27ixcvf5yea3v9v39vp.streamlit.app/
+### OR
+### 1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/digit-recognizer.git
+cd digit-recognizer
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser at `http://localhost:8501`.
+
+---
 
 ## 🧠 CNN Model Architecture
 
@@ -90,27 +113,7 @@ flowchart LR
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/digit-recognizer.git
-cd digit-recognizer
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the app
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser at `http://localhost:8501`.
-
----
 
 ## 🎨 How to Use
 
