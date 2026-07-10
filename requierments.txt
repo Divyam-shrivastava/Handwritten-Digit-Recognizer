@@ -8,3 +8,4 @@ tensorflow==2.20.0
 keras
 streamlit-drawable-canvas
 matplotlib
+cv2
