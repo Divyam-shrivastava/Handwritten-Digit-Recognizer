@@ -4,7 +4,7 @@ pandas
 seaborn
 opencv-python-headless
 Pillow
-tensorflow
+tensorflow==2.20.0
 keras
 streamlit-drawable-canvas
 matplotlib
